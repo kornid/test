@@ -6,4 +6,3 @@ class HelloWorld {
     }
 }
 
-12345
